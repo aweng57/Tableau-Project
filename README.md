@@ -13,21 +13,21 @@ In order to narrow it down to top five players, I started my research with wage 
 ![alt text](img/wage_nationality.png)
 
 This graph shows the top 10 countries in the world that have players with the highest wage earned. 
-![](top_10_age_nationality.png)
+![](img/top_10_age_nationality.png)
 
 This illustrates where the players with the most wage earned are distributed, red means the highest and yellow means the least. 
-![](wage_nationality_distribution.png)
+![](img/wage_nationality_distribution.png)
 
 
 Now that I have a base understanding of the top countries in the world. I asked myself who exactly earned that much in those countries. Here shows the result. The top players include Neymar from Brazil, Messi from Argentina, Ronaldo from Portugal..etc. This visualization shows the top 100 players with the most market value. 
-![](values_top%20100%20players.png)
+![](img/values_top%20100%20players.png)
 
 Now that I have the top 100 soccer players in the world, I can finally find out what are the attributes of each player. However, in order to categorize all the attributes, a little research has to be done. I found that FIFA put all the attributes into 6 different categories : dribbling, pacee, physical, passing, shooting and defending. For example, physical category includes jumping, stamina, strength and aggression attributes. I noticed there is a general pattern among all the soccer player. Most of the players' defending category falls between 30 to 60. 
-![](top_100_attributes.png)
+![](img/top_100_attributes.png)
 
 
 This is the top 5 players I chose and their attributes. They are Cristiano Ronaldo, E.Hazard, Lionel Messi, Neymar, and R.lewandowski. As you can, even the top players have relatively low defnding attributes score. 
-![](top_5_attributes.png)
+![](img/top_5_attributes.png)
 
 
 ## Challenges 
