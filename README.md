@@ -10,7 +10,7 @@ I chose option 2 FIFA 2018 Player Ratings. After I downloaded the dataset and op
 Option 2 : FIFA 2018 Player Rating 
 
 In order to narrow it down to top five players, I started my research with wage versus nationality. I believe top players in the world will have top wages and I can locate them with nationality. 
-![](wage_nationality.png)
+![alt text](img/wage_nationality.png)
 
 This graph shows the top 10 countries in the world that have players with the highest wage earned. 
 ![](top_10_age_nationality.png)
